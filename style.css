@@ -102,7 +102,7 @@ header .header-info {
 /* TODO AUIDO */
 .audiodiv {
     position: fixed;
-    top: 20px;
+    bottom: 20px;
     right: 20px;
     background-color: var(--color-secundario);
     width: 60px;
